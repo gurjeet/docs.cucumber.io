@@ -364,7 +364,7 @@ Given the following users exist:
 Just like `Doc Strings`, `Data Tables` will be passed to the step definition as the last argument.
 
 Cucumber provides a rich API for manipulating tables from within step definitions.
-See the [Data Table API reference](https://github.com/cucumber/cucumber/tree/master/datatable) reference for
+See the [Data Table API reference](https://github.com/cucumber/cucumber/tree/master/datatable) for
 more details.
 
 # Spoken Languages
